@@ -5,6 +5,8 @@
 - Raspberry Pi 4
 - Camera Module
 - Mediapipe Library
+
+
 OpenCv has 68 facial landmarks.
 Mediapipe has 468 facial landmarks.
 In this project, Mediapipe library is chosen, since it gives more accurate result.
